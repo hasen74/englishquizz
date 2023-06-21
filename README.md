@@ -1,6 +1,6 @@
 ## VERB CHALLENGE EXTRAVAGANZA
 
-### **Play it here : https://verb-challenge-extravaganza.vercel.app/**
+### **Play it here : https://verb-challenge-extravaganza.vercel.app/** !!
 
 Verb challenge extravaganza is a quiz-inspired all age online game in which two players compete to win the title of verb GOAT. 
 
